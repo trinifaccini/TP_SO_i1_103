@@ -16,3 +16,7 @@ por ejemplo en el punto 2 y 3 donde Gamma pudo ver mis respuestas
 
 D) ¿De qué forma se comunicaron ustedes?
 la forma de comunicación utilizada fue Whatsapp y los Proyects de github
+
+E) ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+La mejor forma de comunicarse dentro de github es plantear dentro del projects las diferentes tareas que deben hacer cada uno de
+los participantes y el orden en el que deben hacerse

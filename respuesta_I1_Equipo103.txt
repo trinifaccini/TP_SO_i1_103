@@ -9,3 +9,10 @@ asi descargar el contenido que los otros colaboradores han subido al repositorio
 B) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si, al igual que en el punto A los demás integrantes ven desde github todos los archivos que ALFA ha agregado, pero para
 verlos de forma local deen hacer git pull desde su repositorio.
+
+C) ¿Si BETA agrega un archivo los demás integrantes lo ven? 
+si, todos los pueden ver en github, pero para que este sea visible en su repositorio local tiene que hacer git pull
+por ejemplo en el punto 2 y 3 donde Gamma pudo ver mis respuestas
+
+D) ¿De qué forma se comunicaron ustedes?
+la forma de comunicación utilizada fue Whatsapp y los Proyects de github
